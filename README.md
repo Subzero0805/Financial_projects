@@ -1,4 +1,4 @@
-# Stock_correlations
+# Finance_projects
 
 This is a collection of mini projects that I have been working on to develop my ability to work with financial data and learn more about how to do some basic analysis, as well as visuallise data. I've used both Jupyter Notebooks and Python3 to work on these projects.
 
