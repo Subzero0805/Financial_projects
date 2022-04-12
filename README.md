@@ -1,6 +1,6 @@
 # Finance_projects
 
-This is a collection of mini projects that I have been working on to develop my ability to work with financial data and learn more about how to do some basic analysis, as well as visualise data. I've used both Jupyter Notebooks and Python3 to work on these projects.
+This is a collection of mini projects that I have been working on to develop my ability to work with financial data, learn more about basic data analysis, and visualising data. I've used both Jupyter Notebooks and Python3 to work on these projects.
 
 I'm also currently working on a project where I calcualte and plot stock moving averages, recreating a classic moving average trading stratergy.
 
